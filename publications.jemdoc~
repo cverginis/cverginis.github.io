@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+
+\n
+
+== Journal Publications 
+
+~~
+. *Christos K. Verginis*, Charalambos P. Bechlioulis, Dimos D. Dimarogonas and Kostas J. Kyriakopoulos, [manuscript_TCST_platoon1D.pdf Robust Distributed Control Protocols for Large Vehicular Platoons With Prescribed Transient and Steady-State Performance], IEEE Transactions on Control Systems Technology, 2017, to appear.
+. Sheraz Khan, Athanasios Dometios, *Christos K. Verginis*, Costas Tzafestas, Dirk Wollher and Martin Buss, “[RMAP.pdf RMAP:A Rectangular Cuboid Approximation Framework for 3D Environment Mapping]”, Journal of Autonomous Robots, no. 10514, pp. 1-17, February 2014.
+~~
+
+== Conference Publications 
+
+~~
+. *Christos K. Verginis* and Dimos D. Dimarogonas, “[grasp_motion_planning_IFAC17.pdf Multi-Agent Motion Planning and Object Transportation under High Level Goals]”, Worlds Congress of the International Federation of Automatic Control (*IFAC 2017*), Toulouse, France, July, 2017, to appear.
+. *Christos K. Verginis* and Dimos D. Dimarogonas, “[coop_manip_quaternions_IFAC17.pdf Robust Quaternion-based Cooperative Manipulation without Force/Torque Information]”, Worlds Congress of the International Federation of Automatic Control (*IFAC 2017*), Toulouse, France, July, 2017, to appear.
+. Alexandros Nikou, *Christos K. Verginis* and Dimos D. Dimarogonas, “[formation_IFAC17.pdf Robust Distance-Based Formation Control of Multiple Rigid Bodies with Orientation Alignment]”, Worlds Congress of the International Federation of Automatic Control (*IFAC 2017*), Toulouse, France, July, 2017, to appear.
+. *Christos K. Verginis* and Dimos D. Dimarogonas, “[ACC17_arxiv.pdf Distributed Cooperative Manipulation under Timed Temporal Specifications]”, American Control Conference (*ACC 2017*), Seattle, WA, USA, May, 2017, to appear.
+. *Christos K. Verginis*, Ziwei Xu and Dimos D. Dimarogonas, “[ICRA17_arxiv.pdf Decentralized Motion Planning with Collision Avoidance For a Team of UAVs under High Level Goals]”, IEEE International Conference on Robotics and Automation (*ICRA 2017*), Singapure, June, 2017, to appear.
+. *Christos K. Verginis*, Charalambos P. Bechlioulis, Dimos D. Dimarogonas and Kostas J. Kyriakopoulos, “[IROS_2D.pdf Decentralized 2-D Control of Vehicular Platoons under Limited Visual Feedback]”, IEEE International Conference on Intelligent Robots and Systems (*IROS 2015*), Hamburg, Germany, October 2015.
+. Anastasios Tsiamis, *Christos K. Verginis*, Charalambos P. Bechlioulis and Kostas J. Kyriakopoulos, “[Tsiamis2015.pdf Cooperative Manipulation Exploiting only Implicit Communication]”, IEEE International Conference on Intelligent Robots and Systems (*IROS 2015*), Hamburg, Germany, October 2015.  
+~~
+
+== Theses
+
+~~
+. *Christos Verginis*, Kostas J. Kyriakopoulos, "[master_thesis.pdf Distributed Control Protocols for Vehicular Platoons]", Master Thesis, National Technical University of Athens, Athens, 2015.
+. *Christos Verginis*, Costas Tzafestas, Martin Buss, "[diploma_thesis.pdf 3D Plane Registration Using Uncertainties]", Diploma Thesis, Technical University of Munich and National Technical University of Athens, Athens, 2013.
+~~

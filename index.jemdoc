@@ -1,0 +1,56 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+\n
+== Christos Verginis
+
+~~~
+{}{img_left}{cver.jpg}{alt text}{131}{160}{http://people.kth.se/~verginis/index.html}
+PhD Student,\n [http://www.kth.se/ees/omskolan/organisation/avdelningar/ac?l=en_UK Automatic Control Department], \n[http://www.kth.se Royal Institute of Technology (KTH)],\n
+Osquldas v\&aumlg 10, Floor 6, \n
+100 44 Stockholm, Sweden \n \n
+
+Phone: \+46 704438285 \n
+E-mail: [cverginis@kth.se]
+~~~
+
+== About me
+~~~
+I received the MEng degree in [http://www.ece.ntua.gr/ Electrical and Computer Engineering] and the MSc degree in [http://dpms-as.mech.ntua.gr/ Automatic Control Systems and Robotics] both from [http://www.ntua.gr/index_en.html National Technical University of Athens (NTUA)] in 2013 and 2015 respectively.
+
+My [diploma_thesis.pdf Diploma Thesis] involved segmentation algorithms and plane registration for mobile robot localization. My [master_thesis.pdf Master Thesis] involved the nonlinear control of multi-agent vehicle agents composing a platoon with prescribed performance guarantees.
+
+I received the PhD in Electrical Engineering from KTH Royal Institute of Technology (Stockholm) under the guidance of Prof. [http://people.kth.se/~dimos/ Dimos Dimarogonas] and Prof. [http://www.csc.kth.se/~danik/ Danica Kragic]. My [http://kth.diva-portal.org/smash/get/diva2:1427745/FULLTEXT01.pdf PhD Thesis] involved planning and control of multi-robot manipulator-endowed systems. 
+
+An updated version of my CV can be found [cv.pdf here].
+
+~~~
+
+== Research Interests
+~~~
+
+My research interests include 
+\n
+- Nonlinear Dynamical Systems (Modeling, Analysis, Design and Control)
+- Collaborative Manipulation
+- Multi-Robot Control Systems
+- Formal Verification
+- Hybrid Control Systems
+- Robust and Adaptive Control of Uncertain Systems
+- Autonomous Robots, Navigation
+~~~
+
+== News
+~~~
+- *(August, 2020)* A paper entitled "Adaptive Robot Navigation with Collision Avoidance Subject to 2nd-order Uncertain Dynamics" is accepted for publication in Automatica!
+- *(August, 2020)* A paper entitled "Asymptotic Tracking of Second-Order Nonsmooth Feedback Stabilizable Unknown Systems with Prescribed Transient Response" is accepted for publication in the IEEE Transactions on Automatic Control!
+- *(July, 2020)* Two papers entitled "Augmenting Control Policies with Motion Planning for Robust and Safe Multi-robot Navigation" and "Decentralized Nonlinear MPC for Robust Cooperative Manipulation by Heterogeneous Aerial-Ground Robots" were accepted for publication in the International Conference on Intelligent Robots and Systems (IROS) 2020!
+- *(May, 2020)* I successfully defended my PhD thesis after an exciting duel with [https://magnus.ece.gatech.edu/ Magnus Egerstedt]!
+- *(April, 2020)* A paper entitled "Sampling-based Motion Planning for Uncertain High-dimensional Systems via Adaptive Control" was accepted for publication in WAFR, 2020, Oulou, Finland (which will take place in 2021).
+- *(January, 2020)* The final integration week took place in PAL Robotics, Barcelona, Spain, for [http://www.co4robots.eu/ Co4Robots], completing the experiments for the 3rd Milestone of the project! Navigate to [http://www.co4robots.eu/ Co4Robots] for more information.
+- *(January, 2020)* A paper entitled "Energy-Optimal Cooperative Manipulation via Provable Internal-Force Regulation" was accepted for publication in the International Conference on Robotics and Automation (ICRA), June 2020, Paris, France.
+- *(January, 2020)* A paper entitled "Adaptive Cooperative Manipulation with Rolling Contacts" was accepted for publication in the American Control Conference (ACC), July 2020, Denver, Colorado, USA.
+- *(December, 2019)* I presented three papers, entitled "Closed-Form Barrier Functions for Multi-Agent Ellipsoidal Systems With Uncertain Lagrangian Dynamics", "Asymptotic Stability of Uncertain Lagrangian Systems with Prescribed Transient Response", and "Adaptive Leader-Follower Coordination of Lagrangian Multi-Agent Systems under Transient Constraints" in the Conference on Decision and Control (CDC), December 2019, Nice, France. 
+- *(October, 2019)* I temporarily joined the group of Prof. [https://www.cs.rice.edu/~kavraki/ Lydia Kavraki] in Rice University, Houston, Texas for a research visit of 3 months, and worked on integration of intelligent control techniques with sampling-based motion planning algorithms.
+- *(May 2019)* I presented the paper "Reconfigurable Motion Planning and Control in Obstacle Cluttered Environments under Timed Temporal Tasks" in the International Conference on Robotics and Automation (ICRA), May 2019, Montreal, Canada.
+- *(April 2019)* I received the "Jubilee appropriation" scholarship from Knut and Alice Wallenbergs foundation to attend the International Conference on Robotics and Automation (ICRA), May 2019, Montreal, Canada, and present my work. 
+
+~~~

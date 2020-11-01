@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+\n
+== Christos Verginis
+
+~~~
+{}{img_left}{cver.jpg}{alt text}{131}{160}{http://people.kth.se/~verginis/index.html}
+PhD Student,\n [http://www.kth.se/ees/omskolan/organisation/avdelningar/ac?l=en_UK Automatic Control Department], \n[http://www.kth.se Royal Institute of Technology (KTH)],\n
+Osquldas v\&aumlg 10, Floor 6, \n
+100 44 Stockholm, Sweden \n \n
+
+Phone: \+46 764191415 \n
+E-mail: [cverginis@kth.se]
+~~~
+
+== About me
+~~~
+I received the MEng degree in [http://www.ece.ntua.gr/ Electrical and Computer Engineering] and the MSc degree in [http://dpms-as.mech.ntua.gr/ Automatic Control Systems and Robotics] both from [http://www.ntua.gr/index_en.html National Technical University of Athens (NTUA)] in 2013 and 2015 respectively.
+
+My [diploma_thesis.pdf Diploma Thesis] involved segmentation algorithms and plane registration for mobile robot localization. My [master_thesis.pdf Master Thesis] involved the nonlinear control of multi-agent vehicle agents composing a platoon with prescribed performance guarantees.
+
+Currently, I am a PhD Student at the Department of Automatic Control of KTH Royal Institute of Technology (Stockholm) under the guidance of Prof. [http://people.kth.se/~dimos/ Dimos Dimarogonas] and Prof. [http://www.csc.kth.se/~danik/ Danica Kragic]. My research interests include nonlinear control of multi-agent systems, cooperative manipulation tasks and hybrid systems.
+~~~
+
+== News
+~~~
+- *(Novemver 2, 2015)*, Started as a PhD student at KTH School of Electrical Engineering, Department of Automatic Control
+- *(September 14, 2015)*, Offered a PhD Position at KTH School of Electrical Engineering, Department of Automatic Control
+- *(September 2, 2015)*, Master Thesis presentation
+- *(June 29-30, 2015)*, Two articles was accepted for publication in IROS 2015
+~~~

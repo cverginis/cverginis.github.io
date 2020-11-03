@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
+ jemdoc: menu{MENU}{index.html}, nofooter  
 \n
 == Christos Verginis
 
@@ -9,7 +9,7 @@ Postdoctoral Fellow,\n [https://www.oden.utexas.edu/ Oden Institute for Computat
 Austin, Texas, USA
 
 Phone: \+1-512 203-6735, +46 704438285 \n
-E-mail: [chrisverginis@gmail.com, cverginis@kth.se]
+E-mail: [christos.verginis@austin.utexas.edu christos.verginis@austin.utexas.edu], [chrisverginis@gmail.com chrisverginis@gmail.com]
 ~~~
 
 == About me
@@ -30,12 +30,11 @@ An updated version of my CV can be found [cv.pdf here].
 My research interests include 
 \n
 - Nonlinear Dynamical Systems (Modeling, Analysis, Design and Control)
-- Collaborative Manipulation
-- Multi-Robot Control Systems
-- Formal Verification
-- Hybrid Control Systems
 - Robust and Adaptive Control of Uncertain Systems
-- Autonomous Robots, Navigation
+- Data-driven control
+- Hybrid Control Systems
+- Multi-Agent Control Systems
+- Formal Verification
 ~~~
 
 == News

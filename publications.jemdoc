@@ -5,9 +5,19 @@
 == Journal Publications 
 
 ~~
-\[J9\] *Cooperative Manipulation via Internal Force Regulation: A Rigidity Theory Perspective* \n
+
+
+\[J11\] *Robust Trajectory Tracking Control for Uncertain 3-DOF Helicopters with Prescribed Performance* \n
+*Christos K. Verginis*, Charalampos P. Bechlioulis, and Argiris Soldatos\n
+/Under Review, 2021/  \n \n
+\[J10\] [publications/journals/Coop_manip_formation.pdf] *Cooperative Manipulation via Internal Force Regulation: A Rigidity Theory Perspective* \n
 *Christos K. Verginis*, Dan Zelazo, and Dimos V. Dimarogonas\n
-/Under Review, 2020/  \n \n
+/Under Review, 2021/  \n \n
+\[J9] [publications/journals/RAM_co4Robots.pdf *A Decentralized Framework for Efficient Cooperation of Heterogeneous Robotic Agents*] \n
+Michalis Logothetis, George C. Karras, Konstantinos Alevizos, *Christos K. Verginis*, Pedro Roque,
+Konstantinos Roditakis, Alexandros Makris, Sergio Garcı́a, Philipp Schillinger, Alessandro Di Fava, Patrizio
+Pelliccione, Antonis Argyros, Kostas J. Kyriakopoulos, Dimos V. Dimarogonas \n 
+/To appear in the IEEE Robotics and Automation Magazine (RAM), 2021. \n \n
 \[J8\] [publications/journals/Automatica_adaptive_MP.pdf *Adaptive Robot Navigation with Collision Avoidance Subject to 2nd-order Uncertain Dynamics*] \n
 *Christos K. Verginis* and Dimos V. Dimarogonas \n
 /*Automatica* 123: 109303, 2021/  \n \n
@@ -37,30 +47,33 @@ Sheraz Khan, Athanasios Dometios, *Christos K. Verginis*, Costas Tzafestas, Dirk
 == Conference Publications 
 
 ~~
+\[C24\] [publications/conferences/ICRA21_safetyHI.pdf *Safe,  Passive  Control  for  Mechanical  Systems  with  Application  toPhysical  Human-Robot  Interactions*] \n
+Wenceslao Shaw Cortez, *Christos K. Verginis*, and Dimos V. Dimarogonas \n
+/To appear in the IEEE Conference on Robotics and Automation (*ICRA*), Xi'an, China, 2021 \n\n
 \[C23\] [publications/conferences/IROS20_manipulation.pdf *Decentralized Nonlinear MPC for Robust Cooperative Manipulation by Heterogeneous Aerial-Ground Robots*] \n
 Nicola Lissandrini, *Christos. K. Verginis*, Pedro Roque, Angelo Cenedese, and Dimos V. Dimarogonas \n
-/To appear in the International Conference on Intelligent Robots and Systems (*IROS*), Las Vegas, Nevada, USA, 2020/ \n\n
+/IEEE International Conference on Intelligent Robots and Systems (*IROS*), Las Vegas, Nevada, USA, 2020/ \n\n
 \[C22\] [publications/conferences/IROS20_augmenting_control_policies_final.pdf *Augmenting Control Policies with Motion Planning for Robust and Safe Multi-robot Navigation*] \n
 Tianyang Pan, *Christos K. Verginis*, Andrew M. Wells, Lydia E. Kavraki, and Dimos V. Dimarogonas \n
-/To appear in the International Conference on Intelligent Robots and Systems (*IROS*), Las Vegas, Nevada, USA, 2020/ \n\n
+/IEEE International Conference on Intelligent Robots and Systems (*IROS*), Las Vegas, Nevada, USA, 2020/ \n\n
 \[C21\] [publications/conferences/WAFR20.pdf *Sampling-based Motion Planning for Uncertain High-dimensional Systems via Adaptive Control*] \n
 *Christos K. Verginis*, Dimos V. Dimarogonas, and Lydia E. Kavraki \n
 /To appear in the Workshop on the Algorithmic Foundations on Robotics (*WAFR*), Oulou, Finland, 2020/ \n\n
 \[C20\] [publications/conferences/ACC20_MASGrasp.pdf  *Adaptive Cooperative Manipulation with Rolling Contacts*]\n
 *Christos K. Verginis*, Wenceslao Shaw Cortez, and Dimos V. Dimarogonas \n
-/To appear in the American Control Conference (*ACC*), Denver, Coloaro, USA, 2020/ \n\n
+/American Control Conference (*ACC*), Denver, Coloaro, USA, 2020/ \n\n
 \[C19\] [publications/conferences/ICRA20_optimal.pdf  *Energy-Optimal Cooperative Manipulation via Provable Internal-Force Regulation*]\n
 *Christos K. Verginis* and Dimos V. Dimarogonas \n
-/Proceedings of the IEEE Conference on Robotics and Automation (*ICRA*), Paris, France, 2020/ \n\n
+/IEEE Conference on Robotics and Automation (*ICRA*), Paris, France, 2020/ \n\n
 \[C18\] [publications/conferences/ppc_as_cdc.pdf  *Asymptotic Stability of Uncertain Lagrangian Systems with Prescribed Transient Response*]\n
 *Christos K. Verginis* and Dimos V. Dimarogonas\n
-/Proceedings of the IEEE Conference on Decision and Control (*CDC*), Nice, France, 2019/ \n\n
+/IEEE Conference on Decision and Control (*CDC*), Nice, France, 2019/ \n\n
 \[C17\] [publications/conferences/LF_con_col.pdf  *Adaptive Leader-Follower Coordination of Lagrangian Multi-Agent Systems under Transient Constraints*]\n
 *Christos K. Verginis* and Dimos V. Dimarogonas \n
-/Proceedings of the IEEE Conference on Decision and Control (*CDC*), Nice, France, 2019/ \n\n
+/IEEE Conference on Decision and Control (*CDC*), Nice, France, 2019/ \n\n
 \[C16\] [publications/conferences/ICRA19_Vrohidis.pdf  *Reconfigurable Motion Planning and Control in Obstacle Cluttered Environments under Timed Temporal Tasks*]\n
 *Christos K. Verginis*, Constantinos Vrohidis, Charalampos P. Bechlioulis, Kostas J. Kyriakopoulos, and Dimos V. Dimarogonas \n
-/Proceedings of the IEEE International Conference of Robotics and Automation (*ICRA*), Montreal, Canada, pp. 951-957, 2019/ \n\n
+/IEEE International Conference of Robotics and Automation (*ICRA*), Montreal, Canada, pp. 951-957, 2019/ \n\n
 \[C15\] [publications/conferences/AI_CON18_CVerginis.pdf *Motion and Action Planning for Multi-Agent-Object Systems under Temporal Logic Formulas*]\n
 *Christos K. Verginis* and Dimos V. Dimarogonas \n
 /*BOSCH AI* Conference, 2018/ \n\n
@@ -73,19 +86,19 @@ Jieqiang Wei, *Christos K. Verginis*, Junfeng Wu, Dimos V. Dimarogonas, Henrik S
 /European Control Conference (*ECC*), Limassol, Cyprus, pp. 3126-3131, 2018/ \n\n
 \[C12\] [publications/conferences/CDC17_PPC_STL.pdf  *Prescribed Performance Control for Signal Temporal Logic Specifications*]\n
 Lars Lindemann, *Christos K. Verginis*, and Dimos V. Dimarogonas \n
-/Proceedings of the IEEE Conference on Decision and Control (*CDC*), Melbourne, Australia, 2017/ \n \n
+/IEEE Conference on Decision and Control (*CDC*), Melbourne, Australia, 2017/ \n \n
 \[C11\] [publications/conferences/CDC17_MPC_abstractions.pdf  *Decentralized Abstractions and Timed Constrained Planning of a General Class of Coupled Multi-Agent Systems*] \n
 Alexandros Nikou, Shahab Heshmati-alamdari, *Christos K. Verginis*, and Dimos V. Dimarogonas \n
-/Proceedings of the IEEE Conference on Decision and Control (*CDC*), Melbourne, Australia, 2017/ \n\n
+/IEEE Conference on Decision and Control (*CDC*), Melbourne, Australia, 2017/ \n\n
 \[C10\] [publications/conferences/CDC17_formation.pdf *Position and Orientation Based Formation Control of Multiple Rigid Bodies with Collision Avoidance and Connectivity Maintenance*] \n
 *Christos K. Verginis*, Alexandros Nikou, and Dimos V. Dimarogonas \n
-/Proceedings of the IEEE Conference on Decision and Control (*CDC*), Melbourne, Australia, 2017/ \n \n
+/IEEE Conference on Decision and Control (*CDC*), Melbourne, Australia, 2017/ \n \n
 \[C9\] [publications/conferences/CDC17_mm_abstractions.pdf *Robust Decentralized Abstractions for Multiple Mobile Manipulators*] \n
 *Christos K. Verginis*, and Dimos V. Dimarogonas \n
-/Proceedings of the IEEE Conference on Decision and Control (*CDC*), Melbourne, Australia, 2017/ \n \n
+/IEEE Conference on Decision and Control (*CDC*), Melbourne, Australia, 2017/ \n \n
 \[C8\] [publications/conferences/med_2017_coop_manip.pdf *A Nonlinear Model Predictive Control Scheme for Cooperative Manipulation with Singularity and Collision Avoidance*] \n
 Alexandros Nikou, *Christos K. Verginis*, and Dimos V. Dimarogonas \n
-/Proceedings of the Mediterranean Conference on Control and Automation (*MED*), pp. 707-712, Malta, 2017/ \n\n
+/Mediterranean Conference on Control and Automation (*MED*), pp. 707-712, Malta, 2017/ \n\n
 \[C7\] [publications/conferences/IFAC17_grasp_motion_planning.pdf *Multi-Agent Motion Planning and Object Transportation under High Level Goals*] \n
 *Christos K. Verginis* and Dimos V. Dimarogonas \n
 /World Congress of the International Federation of Automatic Control (*IFAC WC*), 50(1):15816-15821, 2017/ \n \n
@@ -97,16 +110,16 @@ Alexandros Nikou, *Christos K. Verginis*, and Dimos V. Dimarogonas \n
 /World Congress of the International Federation of Automatic Control (*IFAC WC*), 50(1):15458-15463, 2017/ \n \n
 \[C4\] [publications/conferences/ACC17_coop_manip_mitl.pdf *Distributed Cooperative Manipulation under Timed Temporal Specifications*] \n 
  *Christos K. Verginis* and Dimos V. Dimarogonas \n
-/Proceedings of the American Control Conference (*ACC*), pp. 1358-1363, Seattle, WA, USA, 2017/ \n \n
+/American Control Conference (*ACC*), pp. 1358-1363, Seattle, WA, USA, 2017/ \n \n
 \[C3\] [publications/conferences/ICRA17_motion_plan_UAVs.pdf *Decentralized Motion Planning with Collision Avoidance For a Team of UAVs under High Level Goals*] \n
 *Christos K. Verginis*, Ziwei Xu, and Dimos V. Dimarogonas \n
-/Proceedings of the IEEE International Conference on Robotics and Automation (*ICRA*), pp. 781-787, Singapore, 2017/ \n \n
+/IEEE International Conference on Robotics and Automation (*ICRA*), pp. 781-787, Singapore, 2017/ \n \n
 \[C2\] [publications/conferences/IROS_15_2d_platoon.pdf *Decentralized 2-D Control of Vehicular Platoons under Limited Visual Feedback*] \n
 *Christos K. Verginis*, Charalambos P. Bechlioulis, Dimos V. Dimarogonas, and Kostas J. Kyriakopoulos \n
-/Proceedings of the IEEE\/RSJ International Conference on Intelligent Robots and Systems (*IROS*), pp. 3566-3571, Hamburg, Germany, 2015/ \n \n
+/IEEE\/RSJ International Conference on Intelligent Robots and Systems (*IROS*), pp. 3566-3571, Hamburg, Germany, 2015/ \n \n
 \[C1\] [publications/conferences/IROS_15_Tsiamis.pdf *Cooperative Manipulation Exploiting only Implicit Communication*] \n
 Anastasios Tsiamis, *Christos K. Verginis*, Charalambos P. Bechlioulis, and Kostas J. Kyriakopoulos \n
-/Proceedings of the IEEE\/RSJ International Conference on Intelligent Robots and Systems (*IROS*), pp. 864-869, Hamburg, Germany, 2015/ 
+/IEEE\/RSJ International Conference on Intelligent Robots and Systems (*IROS*), pp. 864-869, Hamburg, Germany, 2015/ 
 ~~
 
 == Theses

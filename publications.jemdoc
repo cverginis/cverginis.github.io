@@ -5,14 +5,17 @@
 == Journal Publications 
 
 ~~
-\[J19\] [https://arxiv.org/pdf/2204.11833.pdf *Joint Learning of Reward Machines and Policies in Environments with Partially Known Semantics*] \n 
+\[J20\] [https://arxiv.org/pdf/2204.11833.pdf *Joint Learning of Reward Machines and Policies in Environments with Partially Known Semantics*] \n 
 *Christos Verginis*, Cevahir Koprulu, Sandeep Chinchali, and Ufuk Topcu \n
 /Under review/ \n\n
-\[J18\] [https://arxiv.org/pdf/2204.11783.pdf *Planning and Control of Multi-Robot-Object Systems under Temporal Logic Tasks and Uncertain Dynamics*] \n
+\[J19\] [https://arxiv.org/pdf/2204.11783.pdf *Planning and Control of Multi-Robot-Object Systems under Temporal Logic Tasks and Uncertain Dynamics*] \n
 *Christos Verginis*, Yiannis Kantaros, and Dimos V. Dimarogonas \n
 /Under review/ \n\n
-\[J17\] *Cooperative Object Manipulation under Signal Temporal Logic Tasks and Uncertain Dynamics* \n
+\[J18\] *Cooperative Object Manipulation under Signal Temporal Logic Tasks and Uncertain Dynamics* \n
 Mayank Sewlia, *Christos K. Verginis*, and Dimos V. Dimarogonas \n
+/Under review/ \n\n
+\[J17\] *Non-Parametric Neuro-Adaptive Formation Control* \n
+ *Christos K. Verginis*, Zhe Xu, and Ufuk Topcu \n
 /Under review/ \n\n
 \[J16\] *Non-Parametric Neuro-Adaptive Control* \n
  *Christos K. Verginis*, Zhe Xu, and Ufuk Topcu \n
@@ -78,11 +81,11 @@ under review \n\n
 Mayank Swelia, *Christos K. Verginis*, and Dimos V. Dimarogonas \n
  under review \n\n
 \[C31\] *Robust Trajectory Tracking for Underactuated Quadrotors with Prescribed Performance* \n
- D. Lapandic, *C. K. Verginis*, D. V. Dimarogonas, and B. Wahlberg \n
+ Dzenan Lapandic, *Christos K. Verginis*, Dimos V. Dimarogonas, and Bo Wahlberg \n
  under review \n\n
  \[C30\] *An Aperiodic Prescribed Performance Control Scheme for Uncertain Nonlinear Systems* \n
  Alexandros Nikou, *Christos K. Verginis*, and Shahab Heshmati-Alamdari \n
- To appear in the Mediterranean Conference on Control and Automation (*MED*) \n\n
+ To appear in the Mediterranean Conference on Control and Automation (*MED*), 2022 \n\n
 \[C29\] [publications/conferences/C30_AAMAS.pdf *Non-Parametric Neuro-Adaptive Coordination of Multi-Agent Systems*] \n
  *Christos K. Verginis*, Zhe Xu, and Ufuk Topcu \n
 /International Conference on Autonomous Agents and Multiagent Systems (*AAMAS*), 2022/ \n\n

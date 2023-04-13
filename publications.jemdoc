@@ -6,31 +6,32 @@
 
 ~~
 
-\[J22\] *A Distributed, Event-triggered, Adaptive Controller for Cooperative
-Manipulation with Rolling Contacts* \n
-Wenceslao Shaw Cortez, *Christos K. Verginis*, and Dimos V. Dimarogonas \n
-/Under review/ \n\n
 
-
-\[J21\] [publications/journals/AI_22.pdf *Joint Learning of Reward Machines and Policies in Environments with Partially Known Semantics*] \n 
+\[J22\] [publications/journals/AI_22.pdf *Joint Learning of Reward Machines and Policies in Environments with Partially Known Semantics*] \n 
 *Christos Verginis*, Cevahir Koprulu, Sandeep Chinchali, and Ufuk Topcu \n
 /Under review/ \n\n
 
-\[J19\] [publications/journals/LTL_robots_objects_22.pdf *Planning and Control of Multi-Robot-Object Systems under Temporal Logic Tasks and Uncertain Dynamics*] \n
+\[J21\] [publications/journals/LTL_robots_objects_22.pdf *Planning and Control of Multi-Robot-Object Systems under Temporal Logic Tasks and Uncertain Dynamics*] \n
 *Christos Verginis*, Yiannis Kantaros, and Dimos V. Dimarogonas \n
 /Under review/ \n\n
 
-\[J18\] [publications/journals/TASE_neuro_adaptive.pdf *Non-Parametric Neuro-Adaptive Formation Control*] \n
+\[J20\] [publications/journals/TASE_neuro_adaptive.pdf *Non-Parametric Neuro-Adaptive Formation Control*] \n
  *Christos K. Verginis*, Zhe Xu, and Ufuk Topcu \n
 /Under review/ \n\n
 
-\[J17\] [publications/journals/on-the-fly-Automatica_22.pdf *Safety-Constrained Learning and Control using Scarce Data and Reciprocal Barriers*] \n
+\[J19\] [publications/journals/on-the-fly-Automatica_22.pdf *Safety-Constrained Learning and Control using Scarce Data and Reciprocal Barriers*] \n
  *Christos K. Verginis*, Franck Djeumou, and Ufuk Topcu \n
 /Under Review/  \n \n
 
-\[J16\] [publications/journals/Yagiz_TAC22.pdf *On Minimizing Total Discounted Cost in MDPs Subject to Reachability Constraints*] \n
+\[J18\] [publications/journals/Yagiz_TAC22.pdf *On Minimizing Total Discounted Cost in MDPs Subject to Reachability Constraints*] \n
 Yagiz Savas, *Christos K. Verginis*, Michael Hibbard, and Ufuk Topcu \n
 /To apper in *IEEE Transactions on Automatic Control*, 2021/  \n \n
+
+\[J17\] *A Distributed, Event-triggered, Adaptive Controller for Cooperative
+Manipulation with Rolling Contacts* \n
+Wenceslao Shaw Cortez, *Christos K. Verginis*, and Dimos V. Dimarogonas \n
+/To apper in *IEEE Transactions on Robotics*, 2023/  \n \n
+
 
 \[J16\] [publications/journals/PPC_CBF_22.pdf *Funnel Control for Uncertain Nonlinear Systems via Zeroing Control Barrier Functionss*] \n
 *Christos K. Verginis* \n
@@ -43,7 +44,7 @@ Yagiz Savas, *Christos K. Verginis*, Michael Hibbard, and Ufuk Topcu \n
 
 \[J14\] [publications/journals/KDF_TRO_22.pdf *KDF: Kinodynamic Motion Planning via Geometric Sampling-based Algorithms and Funnel Control*] \n
 *Christos K. Verginis*, Dimos V. Dimarogonas, and Lydia E. Kavraki \n
-/To appear in *IEEE Transactions on Robotics, 2022*/  \n \n
+/*IEEE Transactions on Robotics, 2022*/  \n \n
 
 \[J13\] [publications/journals/Mayank_RAL22.pdf *Cooperative Object Manipulation under Signal Temporal Logic Tasks and Uncertain Dynamics* \n]
 Mayank Sewlia, *Christos K. Verginis*, and Dimos V. Dimarogonas \n
@@ -95,8 +96,7 @@ Alexandros Nikou, *Christos K. Verginis*, Shahab Heshmati-alamdari, and Dimos V.
 *Christos K. Verginis*, Charalambos P. Bechlioulis, Dimos V. Dimarogonas and Kostas J. Kyriakopoulos \n
 /*IEEE Transactions on Control Systems Technology, 2018*/ \n \n
 
-\[J1\] [https://link.springer.com/article/10.1007/s10514-014-9387-y *RMAP:A Rectangular Cuboid Approximation Framework for 3D Environment Mapping*]
-[publications/journals/AR_RMAP.pdf] \n
+\[J1\] [https://link.springer.com/article/10.1007/s10514-014-9387-y *RMAP:A Rectangular Cuboid Approximation Framework for 3D Environment Mapping*] \n
 Sheraz Khan, Athanasios Dometios, *Christos K. Verginis*, Costas Tzafestas, Dirk Wollher and Martin Buss \n
 /*Autonomous Robots, 2014*/
 ~~

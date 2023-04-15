@@ -64,13 +64,14 @@ Konstantinos Roditakis, Alexandros Makris, Sergio Garcı́a, Philipp Schillinger
 Pelliccione, Antonis Argyros, Kostas J. Kyriakopoulos, Dimos V. Dimarogonas \n 
 /*IEEE Robotics and Automation Magazine, 2021*/ \n \n
 
-\[J9\] [publications/journals/Automatica_adaptive_MP.pdf *Adaptive Robot Navigation with Collision Avoidance Subject to 2nd-order Uncertain Dynamics*] \n
+\[J9\] [https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/cth2.12045 *A Robust Nonlinear MPC Framework for Control of Underwater Vehicle Manipulator Systems under High-Level Tasks*] \n
+Alexandros Nikou, *Christos K. Verginis*, Shahab Heshmati-alamdari, and Dimos V. Dimarogonas \n
+/*IET Control Theory and Applications,  2020*/ \n \n
+
+\[J8\] [publications/journals/Automatica_adaptive_MP.pdf *Adaptive Robot Navigation with Collision Avoidance Subject to 2nd-order Uncertain Dynamics*] \n
 *Christos K. Verginis* and Dimos V. Dimarogonas \n
 /*Automatica, 2021*/  \n \n
 
-\[J8\] [https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/cth2.12045 *A Robust Nonlinear MPC Framework for Control of Underwater Vehicle Manipulator Systems under High-Level Tasks*] \n
-Alexandros Nikou, *Christos K. Verginis*, Shahab Heshmati-alamdari, and Dimos V. Dimarogonas \n
-/*IET Control Theory and Applications,  2020*/ \n \n
 
 \[J7\]  [publications/journals/TAC_PPC_AS.pdf *Asymptotic Tracking of Second-Order Nonsmooth Feedback Stabilizable Unknown Systems with Prescribed Transient Response*] \n
 *Christos K. Verginis* and Dimos V. Dimarogonas \n

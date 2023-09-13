@@ -7,12 +7,24 @@
 ~~
 
 
+\[J25\] [publications/journals/TRO_23.pdf *MAPS2: Multi-Robot Anytime Motion Planning under Signal Temporal Logic Specifications*] \n 
+Mayank Swelia, *Christos Verginis*, and Dimos V. Dimarogonas \n
+/Under review/ \n\n
+
+\[J24\] [publications/journals/TCST_23.pdf *Kinodynamic Motion Planning via Funnel Control for Underactuated Unmanned Surface Vehicles*] \n 
+Djenan Lapandic, *Christos K. Verginis*, Dimos V. Dimarogonas, and Bo Wahlberg \n
+/Under review/ \n\n
+
+\[J23\] *Verifiable Reinforcement Learning Systems via Compositionality* \n 
+Cyrus Neary, Aryaman Singh Samyal, *Christos K. Verginis*, Mural Cubuktepe, and Ufuk Topcu \n
+/Under review/ \n\n
+
 \[J22\] [publications/journals/AI_22.pdf *Joint Learning of Reward Machines and Policies in Environments with Partially Known Semantics*] \n 
-*Christos Verginis*, Cevahir Koprulu, Sandeep Chinchali, and Ufuk Topcu \n
+*Christos K. Verginis*, Cevahir Koprulu, Sandeep Chinchali, and Ufuk Topcu \n
 /Under review/ \n\n
 
 \[J21\] [publications/journals/LTL_robots_objects_22.pdf *Planning and Control of Multi-Robot-Object Systems under Temporal Logic Tasks and Uncertain Dynamics*] \n
-*Christos Verginis*, Yiannis Kantaros, and Dimos V. Dimarogonas \n
+*Christos K. Verginis*, Yiannis Kantaros, and Dimos V. Dimarogonas \n
 /Under review/ \n\n
 
 \[J20\] [publications/journals/TASE_neuro_adaptive.pdf *Non-Parametric Neuro-Adaptive Formation Control*] \n
@@ -27,8 +39,8 @@
 Yagiz Savas, *Christos K. Verginis*, Michael Hibbard, and Ufuk Topcu \n
 /To appear in *IEEE Transactions on Automatic Control*, 2023/  \n \n
 
-\[J17\] *A Distributed, Event-triggered, Adaptive Controller for Cooperative
-Manipulation with Rolling Contacts* \n
+\[J17\] [https://ieeexplore.ieee.org/abstract/document/10120601 *A Distributed, Event-triggered, Adaptive Controller for Cooperative
+Manipulation with Rolling Contacts*] \n
 Wenceslao Shaw Cortez, *Christos K. Verginis*, and Dimos V. Dimarogonas \n
 /To appear in *IEEE Transactions on Robotics*, 2023/  \n \n
 
@@ -245,6 +257,19 @@ Alexandros Nikou, *Christos K. Verginis*, and Dimos V. Dimarogonas \n
 \[C1\] [publications/conferences/C1_IROS_15_manip.pdf *Cooperative Manipulation Exploiting only Implicit Communication*] \n
 Anastasios Tsiamis, *Christos K. Verginis*, Charalambos P. Bechlioulis, and Kostas J. Kyriakopoulos \n
 /*IEEE\/RSJ International Conference on Intelligent Robots and Systems, 2015*/ 
+~~
+
+== Workshop presentations
+~~
+\[W2\] *Cooperative Manipulation via Internal Force Regulation: A Rigidity Theory Perspective* \n
+*Christos K. Verginis*, Dan Zelazo, and Dimos V. Dimarogonas\n
+Workshop on /Rigidity Theory applied to Dynamic Systems, from Parallel Robots to Multi-Agent Formations/ \n 
+/*European Control Conference (ECC), 2022*/ \n \n
+
+\[W1\] *Sampling-based Motion Planning for Uncertain Nonlinear Systems via Funnel Control*] \n
+*Christos K. Verginis*, Dimos V. Dimarogonas, and Lydia E. Kavraki \n
+Workshop on /Safe Robot Control with Learned Motion and Environment Models/ \n 
+/*IEEE International Conference on Robotics and Automation (ICRA), 2021*/ \n \n
 ~~
 
 == Theses

@@ -117,17 +117,25 @@ Sheraz Khan, Athanasios Dometios, *Christos K. Verginis*, Costas Tzafestas, Dirk
 == Conference Publications 
 
 ~~
+\[C37\] *Learning to Execute Timed-Temporal-Logic Tasks under Input Constraints in Obstacle-Cluttered Environments* \n
+ Fotios Tolis, *Christos K. Verginis*, and Charalampos P. Bechlioulis \n
+/under review/ \n\n
+
+\[C36\] *Kinodynamic Motion Planning via Funnel Control for Timed Temporal Logic Tasks in Obstacle-Cluttered Environments* \n
+ *Christos K. Verginis*, Dimos V. Dimarogonas, and Lydia E. Kavraki \n
+/under review/ \n\n
+
 \[C35\] [publications/conferences/C35_ECC_23.pdf *Non-Parametric Neuro-Adaptive Control*] \n
  *Christos K. Verginis*, Zhe Xu, and Ufuk Topcu \n
-/To appear in the *IEEE European Control Conference, 2023*/ \n\n
+/*IEEE European Control Conference, 2023*/ \n\n
 
 \[C34\] [publications/conferences/C34_ACC_23_PPC_MAS.pdf *Asymptotic Consensus of Unknown Nonlinear Multi-Agent Systems with Prescribed Transient Response*] \n
 *Christos K. Verginis* \n
-/To appear in the *American Control Conference, 2023* / \n\n
+/*American Control Conference, 2023* / \n\n
 
 \[C33\] [publications/conferences/C33_ACC_23_sampling_MP.pdf *Cooperative Sampling-Based Motion Planning under Signal Temporal Logic Specifications*] \n
 Mayank Swelia, *Christos K. Verginis*, and Dimos V. Dimarogonas \n
-/To appear in the *American Control Conference, 2023* / \n\n
+/*American Control Conference, 2023* / \n\n
 
 \[C32\] [publications/conferences/C32_CDC_22.pdf *Robust Trajectory Tracking for Underactuated Quadrotors with Prescribed Performance*] \n
  Dzenan Lapandic, *Christos K. Verginis*, Dimos V. Dimarogonas, and Bo Wahlberg \n
